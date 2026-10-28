@@ -7,18 +7,6 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Engineering student learning software development.
-- 🤖 Exploring Machine Learning and Computer Vision.
-- 🛰️ Interested in aerospace technology and intelligent satellite monitoring.
-- 🛠️ Building practical projects while improving my engineering skills.
-- 🌱 Always learning something new.
-
----
-
 ## 🧰 Tech Stack
 
 <div align="center">
